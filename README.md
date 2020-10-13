@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Thi is my journey through learning flutter folloing the flutter codelabs.
 
 A few resources to get you started if this is your first Flutter project:
 
